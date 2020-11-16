@@ -36,6 +36,10 @@ You can extend the CI pipeline with Continuous Delivery by implementing a
 [promotion](https://docs.semaphoreci.com/article/67-deploying-with-promotions).
 Refer to Semaphore documentation for additional deployment examples.
 
+## Testing notes
+
+- 
+
 ## License
 
 Copyright (c) 2020 Rendered Text
